@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/lutien/postcss-extract-value",
   "dependencies": {
-    "postcss": "^5.0.21"
+    "postcss": "^8.2.13"
   },
   "devDependencies": {
     "ava": "^0.14.0",
